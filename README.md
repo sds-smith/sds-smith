@@ -23,6 +23,8 @@ From my ongoing studies in Web and Mobile Development, I have attained valuable 
 * Web APIs
 * oAuth 2.0 Authentication
 * Search Engine Optimization
+* node.js
+* express.js
 
 I recently attained a score of 725 on the General Coding Assessment administered by CodeSignal (815 on the practice test), and completed the Front End Engineer certification from Codecademy.
 
