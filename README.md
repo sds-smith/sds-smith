@@ -8,24 +8,19 @@ From my experience as a multi-unit restaurant leader, I bring soft skills like s
 
 From my ongoing studies in Web and Mobile Development, I have attained valuable technical skills, including:
 
-* Responsive Web Design
-* Dynamic Web Development and asynchronous logic
-* Javascript Algorithms and Data Structures
-* Object-oriented and Functional Programming
-* TypeScript
-* Front-end Development Libraries
-  ** React.js
-  ** React Native
-  ** Vue.js
-* Single-page Web Apps
-* Mobile Apps
-* Web Accessibility
-* Web APIs
+* Architecting scalable, performant web apps with React.js
+* State management with Redux (including thunk, saga, and persist)
+* Mobile Apps with React Native and Expo
+* Responsive Web Design with Semantic HTML5 and CSS3
+* CSS-in-JS
+* Interactive Web Development with Javascript
+* Web APIs and Asynchronous Request Handling
+* Version control with Git and GitHub
 * oAuth 2.0 Authentication
-* Search Engine Optimization
-* node.js
-* express.js
+* Node.js
+* Express.js
 
-I recently attained a score of 725 on the General Coding Assessment administered by CodeSignal (815 on the practice test), and completed the Front End Engineer certification from Codecademy.
+
+I recently attained a score of 725 on the General Coding Assessment administered by CodeSignal (815 on the practice test), earned a Certified Level 3 score on the Triplebyte React assessment, and completed Codecademy’s Front End Engineer certification.  
 
 I’m driven by the desire to be better today than yesterday, better tomorrow than today, and by the belief that the moment we stop learning, we stop living.
