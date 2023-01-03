@@ -6,21 +6,26 @@ After working most of my adult life in the hospitality industry, in 2021 I decid
 
 From my experience as a multi-unit restaurant leader, I bring soft skills like strong communication, collaboration, relationship-building, partnering and mentoring.  I bring over a decade of experience iterating, prototyping, and scaling an ever-changing operational model.
 
-From my ongoing studies in Web and Mobile Development, I have attained valuable technical skills, including:
+From my experience as a Developer, I bring valuable technical skills, including:
 
 * Architecting scalable, performant web apps with React.js
-* State management with Redux (including thunk, saga, and persist)
-* Mobile Apps with React Native and Expo
-* Responsive Web Design with Semantic HTML5 and CSS3
-* CSS-in-JS
-* Interactive Web Development with JavaScript and TypeScript
-* Web APIs and Asynchronous Request Handling
+* Server side rendering and static site generation with Next.js
+* Creating reusable, extensible components
+* Writing clean, maintainable, quality code
+* State management with Redux and asynchronous Redux
+* The latest versions of JavaScript and TypeScript
+* Consuming REST API data with Asynchronous JavaScript
+* Architecting MVC REST APIs with Node.js and Express.js
+* Architecting MVC GraphQL APIs with Apollo Server
+* Consuming GraphQL with Apollo Client
 * Version control with Git and GitHub
-* oAuth 2.0 Authentication
-* Node.js
-* Express.js
+* Containerizing full-stack applications with Docker
+* Cloud hosting with AWS Cloudfront, EC2, and S3 buckets
+* Responsive design with CSS-in-JS, SCSS, CSS3
+* All stages of project lifecycle - from inception to deployment
 
+I build robust, scalable, enterprise-level apps with the full capability of React 18, Node.js, MongoDB, Express.js, and other tools within the MERN ecosystem like Next.js, Docker, AWS, React Router, Redux, GraphQL, Firebase, Stripe, Jest and React Testing Library, and CSS-in-JS.
 
-I recently attained a score of 725 on the General Coding Assessment administered by CodeSignal (815 on the practice test), earned a Certified Level 3 score on the Triplebyte React assessment, and completed Codecademy’s Front End Engineer certification.  
+I have earned a Certified Level 4 on the Triplebyte React assessment and attained a score of 725 on the CodeSignal General Coding Assessment.
 
 I’m driven by the desire to be better today than yesterday, better tomorrow than today, and by the belief that the moment we stop learning, we stop living.
