@@ -16,8 +16,6 @@ I am guided by a lifelong curiosity and tireless desire to be better today than 
 | [material-ui](https://github.com/mui/material-ui) :large_blue_circle: TypeScript                                     | Comprehensive React component library that implements Google's Material Design.          |
 | [shadcn-ui](https://github.com/shadcn-ui/ui) :large_blue_circle: TypeScript                                          | Accessible and customizable components that you can copy and paste into your apps.       |
 | [chatwoot](https://github.com/chatwoot/chatwoot) :red_circle: Ruby                                                   | Open-source live-chat, email support, omni-channel desk.                                 |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) :large_blue_circle: TypeScript                          | freeCodeCamp.org's open-source codebase and curriculum.                                  |
 | [gatsby](https://github.com/gatsbyjs/gatsby) :yellow_circle: JavaScript                                              | The best React-based framework with performance, scalability and security built in.      |
 | [moment](https://github.com/moment/moment) :yellow_circle: JavaScript                                                | Parse, validate, manipulate, and display dates in javascript.                            |
-| [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) :large_blue_circle: TypeScript                    | A one-of-a-kind resume builder that keeps your privacy in mind.                          |
 
