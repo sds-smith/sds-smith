@@ -11,7 +11,7 @@ I am guided by a lifelong curiosity and tireless desire to be better today than 
 
 | Other Open Source Projects I am following                                                                                  |                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [react   ](https://github.com/facebook/react) :yellow_circle:JavaScript                                                | The library for web and native user interfaces.                                          |
+| [react   ](https://github.com/facebook/react) :javascript:                                                | The library for web and native user interfaces.                                          |
 | [react.dev](https://github.com/reactjs/react.dev) :large_blue_circle:TypeScript                                     | The React documentation website.                                                         |
 | [material-ui](https://github.com/mui/material-ui) :large_blue_circle:TypeScript                                     | Comprehensive React component library that implements Google's Material Design.          |
 | [shadcn-ui](https://github.com/shadcn-ui/ui) :large_blue_circle:TypeScript                                          | Accessible and customizable components that you can copy and paste into your apps.       |
