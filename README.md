@@ -1,6 +1,6 @@
 # about_me
 
-I like to solve tough problems. I want to work on challenging projects that make a difference for others, surrounded by people smarter than me who inspire me. 
+I want to work on challenging projects that make a difference for others, surrounded by people smarter than me who inspire me. 
 
 I am guided by a lifelong curiosity and tireless desire to be better today than yesterday, better tomorrow than today.
 
