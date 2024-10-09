@@ -7,6 +7,7 @@ I am guided by a lifelong curiosity and tireless desire to be better today than 
 | Open Source Projects I have Contributed To                                                                                     |                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) :large_blue_circle:TypeScript                 | The repository for high quality TypeScript type definitions.                             |  
+| [spotify-web-api-ts-sdk](https://github.com/spotify/spotify-web-api-ts-sdk) :large_blue_circle:TypeScript           | A Typescript SDK for the Spotify Web API with types for returned data.                   |  
 
 
 | Other Open Source Projects I am following                                                                                  |                                                                                                                                                                               |
