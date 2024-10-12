@@ -18,5 +18,5 @@ I am guided by a lifelong curiosity and tireless desire to be better today than 
 | [shadcn-ui](https://github.com/shadcn-ui/ui) :large_blue_circle:TypeScript                                          | Accessible and customizable components that you can copy and paste into your apps.       |
 | [vite](https://github.com/vitejs/vite) :large_blue_circle:TypeScript                                               | Next generation frontend tooling. It's fast!       |
 | [chatwoot](https://github.com/chatwoot/chatwoot) :red_circle:Ruby                                                   | Open-source live-chat, email support, omni-channel desk.                                 |
-| [gatsby](https://github.com/gatsbyjs/gatsby)  :yellow_circle:JavaScript                                              | The best React-based framework with performance, scalability and security built in.      |
+| [Tidepool Project](https://github.com/tidepool-org)  :yellow_circle:JavaScript                                              | Tidepool is an open source, nonprofit effort building an open data platform to make diabetes data more accessible, actionable, and meaningful.      |
 
