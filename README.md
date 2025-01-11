@@ -15,8 +15,6 @@ I am guided by a lifelong curiosity and tireless desire to be better today than 
 | [bluesky-social](https://github.com/bluesky-social)  :large_blue_circle:TypeScript                                   | The Authenticated Transfer Protocol ("ATP" or "atproto") is a decentralized social media protocol, developed by Bluesky PBC.                                           |
 | [react](https://github.com/facebook/react)  :yellow_circle:JavaScript                                                | The library for web and native user interfaces.                                          |
 | [react.dev](https://github.com/reactjs/react.dev) :large_blue_circle:TypeScript                                     | The React documentation website.                                                         |
-| [material-ui](https://github.com/mui/material-ui) :large_blue_circle:TypeScript                                     | Comprehensive React component library that implements Google's Material Design.          |
 | [shadcn-ui](https://github.com/shadcn-ui/ui) :large_blue_circle:TypeScript                                          | Accessible and customizable components that you can copy and paste into your apps.       |
-| [vite](https://github.com/vitejs/vite) :large_blue_circle:TypeScript                                               | Next generation frontend tooling. It's fast!       |
 | [chatwoot](https://github.com/chatwoot/chatwoot) :red_circle:Ruby                                                   | Open-source live-chat, email support, omni-channel desk.                                 |
 
